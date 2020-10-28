@@ -2,7 +2,7 @@
 
 ### Lottery algorithm:
 
-- [] The lottery starts accepting transactions, anyone having an etherium wallet can send a minimum amount of 0.01 Ether
+- The lottery starts accepting transactions, anyone having an etherium wallet can send a minimum amount of 0.01 Ether
 
 - The players send Ether directly to the constract address and after that their etherium address is registered.
 
